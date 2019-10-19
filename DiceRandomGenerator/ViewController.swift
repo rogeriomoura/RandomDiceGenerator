@@ -49,7 +49,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     }
     
     /*
-     roll a "dice" sided dice, "number" many times
+     roll a "dice" sided dice, "number" many times.
      */
     func rollingXdice(dice: Int) {
         //output the message "Rolling dX"
