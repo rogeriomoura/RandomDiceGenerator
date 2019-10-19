@@ -13,6 +13,7 @@
 		481A0EC32359317400167B04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 481A0EC12359317400167B04 /* Main.storyboard */; };
 		481A0EC52359317400167B04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 481A0EC42359317400167B04 /* Assets.xcassets */; };
 		481A0EC82359317400167B04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 481A0EC62359317400167B04 /* LaunchScreen.storyboard */; };
+		48E1571A2359866200D30EC0 /* dices.png in Resources */ = {isa = PBXBuildFile; fileRef = 48E157192359866200D30EC0 /* dices.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		481A0EC42359317400167B04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		481A0EC72359317400167B04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		481A0EC92359317400167B04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48E157192359866200D30EC0 /* dices.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dices.png; path = ../../../../Desktop/dices.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				481A0EC42359317400167B04 /* Assets.xcassets */,
 				481A0EC62359317400167B04 /* LaunchScreen.storyboard */,
 				481A0EC92359317400167B04 /* Info.plist */,
+				48E157192359866200D30EC0 /* dices.png */,
 			);
 			path = DiceRandomGenerator;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48E1571A2359866200D30EC0 /* dices.png in Resources */,
 				481A0EC82359317400167B04 /* LaunchScreen.storyboard in Resources */,
 				481A0EC52359317400167B04 /* Assets.xcassets in Resources */,
 				481A0EC32359317400167B04 /* Main.storyboard in Resources */,
